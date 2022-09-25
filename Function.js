@@ -1,3 +1,3 @@
-function getID {
+function getID() {
     return 5;
 }
